@@ -20,7 +20,7 @@ Find out more about me & feel free to connect with me.**
 			];
  
   function getLocation() {
-  	return Israel_Central();
+  	return Israel_Southern();
   }
   
   function ambition() {
