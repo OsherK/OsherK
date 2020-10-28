@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/2N8Zjms.png" width="300"  />
+<img src="https://i.imgur.com/uGnOxzz.png" width="300"  />
 
 **Hi, I'm Osher, a Full-Stack Web Developer, </br>
 Find out more about me & feel free to connect with me.**
