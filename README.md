@@ -11,22 +11,11 @@ Find out more about me & feel free to connect with me.**
  ```javascript
  
  function WhoAmI =() => {
-  const [name, setName] = useState('Osher Kabeda');
-  const [currentEdu, setCurrentEdu] = useState('Graduate @ Coding Academy.');
-  
-  const hobbies = [
-	'Coding!',
-	'Playing Video Games',
-			];
- 
-  function getLocation() {
-  	return Israel_Southern();
-  }
-  
-  function ambition() {
-    return 'Searching for a full time job as a Web Developer!';
-  }
-  
+ const me = new Geek('Osher Kabeda');
+ me.setLocation('Ashqelon, Israel');
+ me.addHobbies('Playing video games', 'Coding');
+ me.setCurrGoal('Finding a fulltime coding position');
+ return me;
 }
  ```
 
