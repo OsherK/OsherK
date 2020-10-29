@@ -14,7 +14,7 @@ Find out more about me & feel free to connect with me.**
  const me = new Geek('Osher Kabeda');
  me.setLocation('Ashqelon, Israel');
  me.addHobbies('Playing video games', 'Coding');
- me.setCurrGoal('Finding a fulltime coding position');
+ me.setCurrGoal('Finding a fulltime coding job');
  return me;
 }
  ```
